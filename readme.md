@@ -21,6 +21,7 @@ West-Mec Student (Year 1)
 - [Youtube](https://www.youtube.com/channel/UCTVvIKVKTDiu3UpnjMr_jzQ)
 - [Twitter](https://twitter.com/ThatDerpNerd)
 - [Github (you're already here)](https://github.com/AlanSanchez317)
+- [Steam](https://steamcommunity.com/id/derpnerdd/)
 
 ### Skills
 
