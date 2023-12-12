@@ -1,7 +1,7 @@
 
 # DerpNerd
 
-West-Mec Student (Year 1)
+West-Mec Student Former Keyboard Destroyer
 
 
 ### Progress
