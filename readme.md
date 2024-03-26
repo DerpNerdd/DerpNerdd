@@ -19,6 +19,7 @@ West-Mec Student Former Keyboard Destroyer
 
 - Discord: derpnerd (or DerpNerd #0001)
 - [Youtube](https://www.youtube.com/channel/UCTVvIKVKTDiu3UpnjMr_jzQ)
+- [Twitter] (yourmom.com)
 - [Github (you're already here)](https://github.com/AlanSanchez317)
 - [Steam](https://steamcommunity.com/id/derpnerdd/)
 
