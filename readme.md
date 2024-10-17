@@ -43,7 +43,6 @@ I am a starting Software and Web Designer from Arizona.
 ### ✍️ Cool Websites : 
 - [Three.js Journey](https://threejs-journey.com/?c=p1#)
 - [RandomA11y](https://randoma11y.com/?color=%230000ff)
-- [JQuery Ripples](https://sirxemic.github.io/jquery.ripples/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+- [JQuery Ripples](https://sirxemic.github.io/jquery.ripples/)
+---
 <img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/main/download.gif">
