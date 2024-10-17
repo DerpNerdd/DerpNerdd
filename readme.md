@@ -10,7 +10,7 @@ I am a starting Software and Web Designer from Arizona.
 - 🔭 I’m looking into working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Mechanical Engineering.
 - ⚡ In my free time I play rhythm games and look into modifying anything I own.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Alan-Sanchez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-sanchez-643a99332/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AlanSanchez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-sanchez-643a99332/)
 
 ---
 
