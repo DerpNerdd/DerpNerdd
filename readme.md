@@ -36,7 +36,7 @@ I am a starting Software and Web Designer from Arizona.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DerpNerdd&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DerpNerdd)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=DerpNerdd&style=flat-square&color=blue" alt=""></p>
 
 
 ---
