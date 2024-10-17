@@ -45,3 +45,5 @@ I am a starting Software and Web Designer from Arizona.
 - [RandomA11y](https://randoma11y.com/?color=%230000ff)
 - [JQuery Ripples](https://sirxemic.github.io/jquery.ripples/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/main/download.gif">
