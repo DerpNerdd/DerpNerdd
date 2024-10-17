@@ -1,15 +1,7 @@
 
-# DerpNerd
+# Hey! Im DerpNerd, also known as Alan Sanchez 👋
 
-West-Mec Student Former Keyboard Destroyer
-
-
-### Progress
-
-- Currently working on Coding and Programming project
-- Fixing Website Coding and Development project
-- Working on visually pretty side web project
-
+<img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/master/celeste.png">
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -42,4 +34,14 @@ I am a starting Software and Web Designer from Arizona.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerpNerdd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=DerpNerdd&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DerpNerdd)
+
+
 ---
+### ✍️ Cool Websites : 
+- [Three.js Journey](https://threejs-journey.com/?c=p1#)
+- [RandomA11y](https://randoma11y.com/?color=%230000ff)
+- [JQuery Ripples](https://sirxemic.github.io/jquery.ripples/)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
