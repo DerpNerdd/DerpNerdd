@@ -13,7 +13,7 @@ West-Mec Student Former Keyboard Destroyer
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a starting Software and Web Designer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1Zmh6d2F5bGQwM3VpeGs3NDk0Nmc5MmxzeXQ1dGQ3Nzk5Z28wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)" width="30"> from Arizona.
+I am a starting Software and Web Designer from Arizona.
 
 - 🔭 I’m looking into working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Mechanical Engineering.
