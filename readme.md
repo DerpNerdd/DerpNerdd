@@ -1,7 +1,7 @@
 
 # Hey! Im DerpNerd, also known as Alan Sanchez 👋
 
-<img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/master/celeste.png">
+<img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/main/celeste.png">
 
 ### :man_technologist: &nbsp;About Me :
 
