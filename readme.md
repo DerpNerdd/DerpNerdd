@@ -41,11 +41,11 @@ I am a starting Software and Web Designer from Arizona.
 ### 🔥 &nbsp; My Stats :
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerpNerdd&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerpNerdd&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerpNerdd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerpNerdd&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DerpNerdd&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=DerpNerdd&theme=dracula&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DerpNerdd&style=flat-square&color=blue" alt=""></p>
