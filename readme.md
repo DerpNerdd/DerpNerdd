@@ -1,4 +1,3 @@
-
 # Hey! Im DerpNerd, also known as Alan Sanchez 👋
 
 <img src="https://raw.githubusercontent.com/DerpNerdd/DerpNerdd/main/celeste.png">
@@ -33,7 +32,21 @@ I am a starting Software and Web Designer from Arizona.
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS"  alt="ThreeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare"  alt="Cloudflare" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm"  alt="Npm" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS"  alt="ViteJS" width="40" height="40"/>&nbsp;
+
 </p>
 
 ---
