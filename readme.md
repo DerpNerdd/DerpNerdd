@@ -6,7 +6,7 @@
 
 I am a starting Software and Web Designer from Arizona.
 
-- 🔭 I’m looking into working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m looking into working as a Software Engineer and contributing to Full Stack Development in web applications.
 - 🌱 Exploring Mechanical Engineering.
 - ⚡ In my free time I play rhythm games and look into modifying anything I own.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AlanSanchez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-sanchez-643a99332/)
@@ -46,6 +46,9 @@ I am a starting Software and Web Designer from Arizona.
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS"  alt="ViteJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
+
 
 </p>
 
